@@ -8,14 +8,14 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int n = Integer.parseInt(br.readLine());
-        Integer[] distinct = Arrays.stream(br.readLine().split(" "))
-                .map(Integer::parseInt)
-                .toArray(Integer[]::new);
-        Integer[] price = Arrays.stream(br.readLine().split(" "))
-                .map(Integer::parseInt)
-                .toArray(Integer[]::new);
-        int res = 0;
-        int min = price[0];
+        Long[] distinct = Arrays.stream(br.readLine().split(" "))
+                .map(Long::parseLong)
+                .toArray(Long[]::new);
+        Long[] price = Arrays.stream(br.readLine().split(" "))
+                .map(Long::parseLong)
+                .toArray(Long[]::new);
+        long res = 0;
+        long min = price[0];
 
         for (int i = 0; i < n-1; i++) {
             if(price[i] >= min){
