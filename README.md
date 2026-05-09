@@ -36,10 +36,15 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mxcoogi/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/mxcoogi/Algorithm/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mxcoogi/Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/mxcoogi/Algorithm/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mxcoogi/Algorithm/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
