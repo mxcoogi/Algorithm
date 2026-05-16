@@ -35,6 +35,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0392-is-subsequence](https://github.com/mxcoogi/Algorithm/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mxcoogi/Algorithm/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mxcoogi/Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mxcoogi/Algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/mxcoogi/Algorithm/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -77,4 +78,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mxcoogi/Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mxcoogi/Algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
