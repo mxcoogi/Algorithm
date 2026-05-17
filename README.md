@@ -54,6 +54,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mxcoogi/Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mxcoogi/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mxcoogi/Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/mxcoogi/Algorithm/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mxcoogi/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/mxcoogi/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/mxcoogi/Algorithm/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
