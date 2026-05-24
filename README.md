@@ -38,6 +38,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mxcoogi/Algorithm/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mxcoogi/Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/mxcoogi/Algorithm/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/mxcoogi/Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +115,9 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/mxcoogi/Algorithm/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/mxcoogi/Algorithm/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/mxcoogi/Algorithm/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
