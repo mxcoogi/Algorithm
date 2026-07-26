@@ -47,6 +47,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mxcoogi/Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mxcoogi/Algorithm/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/mxcoogi/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mxcoogi/Algorithm/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mxcoogi/Algorithm/tree/master/0001-two-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/mxcoogi/Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mxcoogi/Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mxcoogi/Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
