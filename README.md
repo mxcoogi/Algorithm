@@ -42,6 +42,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mxcoogi/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mxcoogi/Algorithm/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -51,6 +52,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0283-move-zeroes](https://github.com/mxcoogi/Algorithm/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mxcoogi/Algorithm/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mxcoogi/Algorithm/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mxcoogi/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/mxcoogi/Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mxcoogi/Algorithm/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/mxcoogi/Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -90,6 +92,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mxcoogi/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mxcoogi/Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mxcoogi/Algorithm/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
