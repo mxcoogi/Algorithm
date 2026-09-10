@@ -1,17 +1,10 @@
 class Solution {
     fun isPalindrome(s: String): Boolean {
+    val lowercase = s.replace(Regex("[^A-Za-z0-9]"), "").lowercase()
     var left: Int = 0
-    var right: Int = s.length - 1;
+    var right: Int = lowercase.length - 1
     while (left <= right) {
-        if(!s[left].isLetterOrDigit()){
-            left++
-            continue
-        }
-        if(!s[right].isLetterOrDigit()){
-            right--
-            continue
-        }
-        if(s[left].lowercaseChar() != s[right].lowercaseChar()){
+        if(lowercase[left] != lowercase[right]){
             return false
         }
         left++
