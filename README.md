@@ -20,6 +20,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mxcoogi/Algorithm/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/mxcoogi/Algorithm/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mxcoogi/Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/mxcoogi/Algorithm/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mxcoogi/Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
@@ -30,6 +31,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mxcoogi/Algorithm/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mxcoogi/Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mxcoogi/Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mxcoogi/Algorithm/tree/master/0392-is-subsequence) |
