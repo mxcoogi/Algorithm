@@ -32,6 +32,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mxcoogi/Algorithm/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mxcoogi/Algorithm/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mxcoogi/Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/mxcoogi/Algorithm/tree/master/0344-reverse-string) |
@@ -55,6 +56,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0001-two-sum](https://github.com/mxcoogi/Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mxcoogi/Algorithm/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/mxcoogi/Algorithm/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/mxcoogi/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mxcoogi/Algorithm/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mxcoogi/Algorithm/tree/master/0334-increasing-triplet-subsequence) |
@@ -94,6 +96,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mxcoogi/Algorithm/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mxcoogi/Algorithm/tree/master/0049-group-anagrams) |
 | [0819-most-common-word](https://github.com/mxcoogi/Algorithm/tree/master/0819-most-common-word) |
 | [1207-unique-number-of-occurrences](https://github.com/mxcoogi/Algorithm/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mxcoogi/Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
@@ -103,6 +106,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mxcoogi/Algorithm/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mxcoogi/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0937-reorder-data-in-log-files](https://github.com/mxcoogi/Algorithm/tree/master/0937-reorder-data-in-log-files) |
 | [1657-determine-if-two-strings-are-close](https://github.com/mxcoogi/Algorithm/tree/master/1657-determine-if-two-strings-are-close) |
