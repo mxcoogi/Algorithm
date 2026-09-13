@@ -19,6 +19,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mxcoogi/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mxcoogi/Algorithm/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/mxcoogi/Algorithm/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mxcoogi/Algorithm/tree/master/0151-reverse-words-in-a-string) |
@@ -32,6 +33,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mxcoogi/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/mxcoogi/Algorithm/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mxcoogi/Algorithm/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mxcoogi/Algorithm/tree/master/0151-reverse-words-in-a-string) |
@@ -90,6 +92,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mxcoogi/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/mxcoogi/Algorithm/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mxcoogi/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -140,4 +143,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/mxcoogi/Algorithm/tree/master/2390-removing-stars-from-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mxcoogi/Algorithm/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
