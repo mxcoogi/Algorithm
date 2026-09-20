@@ -21,6 +21,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mxcoogi/Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mxcoogi/Algorithm/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/mxcoogi/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mxcoogi/Algorithm/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mxcoogi/Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/mxcoogi/Algorithm/tree/master/0283-move-zeroes) |
@@ -58,6 +59,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0001-two-sum](https://github.com/mxcoogi/Algorithm/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mxcoogi/Algorithm/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/mxcoogi/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mxcoogi/Algorithm/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/mxcoogi/Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mxcoogi/Algorithm/tree/master/0283-move-zeroes) |
@@ -93,6 +95,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mxcoogi/Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/mxcoogi/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/mxcoogi/Algorithm/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mxcoogi/Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -142,9 +145,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mxcoogi/Algorithm/tree/master/0042-trapping-rain-water) |
 | [2390-removing-stars-from-a-string](https://github.com/mxcoogi/Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mxcoogi/Algorithm/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mxcoogi/Algorithm/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
